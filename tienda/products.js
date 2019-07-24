@@ -91,7 +91,7 @@ let products = [
     { name: 'Tarta de calabaza y berenjena', amount: 0, url: 'images/tartaberenjena.jpg', type: 'meal', price: 110 },
     { name: 'Tarta de zapallito y puerro', amount: 0, url: 'images/tartakalechampi.jpg', type: 'meal', price: 110 },
     { name: 'Salsa de tomate (1L)', amount: 0, url: 'images/tomatetritu.jpg', type: 'meal', price: 120 },
-    { name: 'Vino Biodinámico "Flor del cosmos" (750ml)', amount: 0, url: 'images/vino.jpg', type: 'meal', price: 180 },
+    // { name: 'Vino Biodinámico "Flor del cosmos" (750ml)', amount: 0, url: 'images/vino.jpg', type: 'meal', price: 180 },
     { name: 'Nueces peladas de Catamarca (500g)', amount: 0, url: 'images/nueces.jpg', type: 'meal', price: 175 },
     // { name: 'Souflé. Mix de Vegetales con masa de calabaza ', amount: 0, url: 'images/soufle.jpg', type: 'meal', price: 100 }
     // { name: 'Tortilla vegana', amount: 0, url: 'images/tortillavegana.jpg', type: 'meal', price: 90 }
